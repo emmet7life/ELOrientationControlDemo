@@ -9,6 +9,9 @@
 [我的微博]: https://weibo.com/2012246061/profile?topnav=1&wvr=6
 [抓狂]: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1852892277,1770843990&fm=200&gp=0.jpg
 [UIViewController]: https://developer.apple.com/documentation/uikit/uiviewcontroller
+[JianShuLink]: https://www.jianshu.com/p/539b265bcb5d
+
+##### 已同步 [简书][JianShuLink],欢迎关注我的简书。
 
 ##### __本文基于 Swift 3.x，由于 Swift 4.x 在语法规则上有较大变动，后续出一个 Swift 4.x 版本__
 
